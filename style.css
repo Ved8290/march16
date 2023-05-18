@@ -1,0 +1,314 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+  background: black;
+  font-family: "Poppins", sans-serif;
+  color: #ffffff;
+
+}
+nav{
+
+  display: flex;
+}
+a{
+  text-decoration: none;
+}
+a:hover{
+  background-color: #0f0f10;
+  border: 2px solid white;
+  border-radius: 19px;
+
+}
+ li{
+  display: inline-block;
+  
+  margin: 20px;
+  font-size:19px;
+}
+.head{
+  height: 200px;
+  width: 800px;
+}
+#beats{
+  margin-top: 85px;
+  margin-left: 140px;
+}
+
+#black{
+  margin-left: 210px;
+  margin-top: 0%;
+  position:relative;
+  top: -150px;
+}
+.rightnev{
+  margin-left: 37px;
+}
+
+.head{
+  margin-top: 38px;
+}
+#onear{
+  margin-left: 140px;
+
+}
+#b2{
+font-size: 80px;
+}
+.beats3{
+  height: 400px;
+  width: 400px;
+  margin-left: 100px;
+  margin-top: 50px;
+  
+}
+#over{
+  font-size: 40px;
+}
+.bag{
+  display: flex;
+  
+  gap: 14px ;
+  background-color: transparent;
+  align-items: center;
+  margin-left: 30px;
+  margin-top: 40px;
+  position: relative;
+  top: 30px;
+  
+}
+#ref{
+  font-size: 25px;
+  margin-left: 20px;
+  background-color: transparent;
+}
+#add{
+  font-size: 23px;
+  background-color: transparent;
+}
+.bac{
+  background-color:#0f0f10;
+  height: 100px;
+  width: 370px;
+  border-radius: 20px;
+}
+#bagimg{
+  background-color: transparent;
+}
+
+.logo{
+  margin-top: 200px;
+  gap: 130px;
+  display: flex;
+  align-items: center;
+  margin-left: 22%;
+  margin-bottom: 180px;
+}
+#spase{
+  margin-left: 230px;
+  margin-bottom: 70px;
+}
+#spc{
+  position: relative;
+  top: -296px;
+  margin-left: 570px;
+  
+}
+#right{
+  margin-right:-200px ;
+}
+
+.con{
+  margin-right: 150px;
+
+}
+#case{
+  margin-top: -900px;
+}
+.sp{
+  display: flex;
+  margin-top: 140px;
+  margin-left: 300px;
+  margin-bottom: 150px;
+}
+.spleft{
+  margin-right: 100px;
+}
+.spright{
+  text-align: left;
+  margin-top: 90px;
+}
+#more{
+  display: flex;
+  gap: 35px;
+  font-size: 20px;
+  margin-top: 35px;
+  background-color: transparent;
+  margin-left: 10px;
+ 
+}
+#n{
+  background-color: transparent;
+}
+.info{
+  background-color:#0f0f10;
+  height: 40px;
+  width: 190px;
+  border-radius: 20px;
+  text-align: center;
+  padding: 0px;
+  margin-top: 32px;
+}
+.spright{
+  height: 300px;
+  width: 300px;
+}
+.buy{
+  display: flex;
+  text-align: left;
+  margin-top: 20px;
+background-color:transparent;
+height: 300px;
+width: 900px;
+}
+.buyleft{
+  background-color: transparent;
+}
+#upto{
+  background-color: transparent;
+}
+#bgp{
+  background-color: transparent;
+}
+#buyh{
+  background-color: transparent;
+  font-size: 28px;
+  margin-bottom: 10px;
+  margin-right: 140px;
+}
+
+#bg{
+  background-color: transparent;
+}
+
+.bacp{
+  position:relative;
+  background-color: transparent;
+ height: 300px;
+ width: 100px;
+ top: 20px;
+ display: flex;
+ margin-bottom: 50px;
+ margin-left: 160px;
+}
+#ma{
+  background-color: transparent;
+  
+}
+
+.bgc{
+  background-color: #0f0f10;
+  height: 370px;
+  width: 1000px;
+  margin-left: 200px;
+  display: flex;
+  border-radius: 30px;
+}
+#te{
+  background-color: red;
+  height: 20px;
+  width: 300px;
+  margin-bottom: 190px;
+ad
+}
+#bg{
+  display: flex;
+  background-color: black;
+  height:40px;
+  padding:1px;
+  margin-top :20px;
+  width:220px;
+  border-radius: 30px;
+  gap:40px;
+}
+
+#bagshop{
+  margin-left: 30px;
+  margin-top: 2px;
+  margin-bottom: 2px;
+}
+#bgp{
+  font-size: 22px;
+  margin-right: 3px;
+
+}
+.products{
+  margin-top: 60px;
+ margin-left: 220px;
+ margin-bottom: 150px;
+}
+
+footer{
+  display: grid;
+  grid-template-columns: 2fr 4fr 3fr;
+}
+.first{
+  margin-left: 120px;
+  margin-top: 5px;
+}
+.second{
+  display: flex;  
+  gap: 130px;
+  margin-left: 100px;
+  text-align: start;
+margin-bottom: 150px;
+line-height: 50px;
+width: 450px;
+}
+#fp{
+  font-size: 24px;
+}
+#fbd{
+  font-size: 24px;
+}
+.sub{
+  display: flex; 
+  gap: 10px;
+  background-color:#0f0f10;
+  height: 50px;
+  width: 480px;
+  margin-left: 10px;
+  border-radius: 30px;
+}
+#email{
+  border: none;
+  font-size: 22px;
+  text-align: center;
+  background-color: transparent;
+}
+#arrow{
+  background-color: transparent;
+  margin-left: 20px;
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-size: 22px;
+}
+.subs{
+  display: flex;
+  margin-top: 7px;
+  margin-bottom: 7px;
+  border-radius: 17px;
+  width: 190px;
+}
+#social{
+  margin-top: 80px;
+  gap: 50px;
+  display: flex;
+  margin-left: 20px;
+}
+#si:hover{
+  background-color: #0f0f10;
+  border: #ffffff;
+  border-radius: 40px;
+  transform: scale(2.1);
+}
